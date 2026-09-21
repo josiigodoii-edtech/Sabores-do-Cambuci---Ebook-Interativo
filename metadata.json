@@ -1,0 +1,6 @@
+{
+  "name": "Sabores do Cambuci - Ebook Interativo LXD",
+  "description": "Livro de receitas interativo e navegável com mapa sensorial de sabores, fotos atraentes, calculador de porções, badges culinárias e quizzes gastronômicos rápidos sobre o Cambuci.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
