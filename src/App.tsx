@@ -210,8 +210,8 @@ export default function App() {
     }));
   };
 
-  // Featured spotlight recipe: Costela com glaze de cambuci
-  const featuredRecipe = RECIPES_DATA.find(r => r.id === 'costelinha-glaze') || RECIPES_DATA[0];
+  // Featured spotlight recipe
+  const featuredRecipe = RECIPES_DATA.find(r => r.id === 'torta-costela-cambuci') || RECIPES_DATA[0];
 
   return (
     <div className="min-h-screen flex flex-col bg-[#fbfaf6] text-stone-900 font-sans selection:bg-amber-200">
